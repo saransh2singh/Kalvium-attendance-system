@@ -1,0 +1,123 @@
+const students = [
+  {
+    id: 1,
+    name: "Saransh",
+    regNo: "RA2011003010163",
+    attendance: "Click here",
+  },
+  {
+    id: 2,
+    name: "Prastuti",
+    regNo: "RA2011003010164",
+    attendance: "Click here",
+  },
+  {
+    id: 3,
+    name: "Venkat",
+    regNo: "RA2011003010165",
+    attendance: "Click here",
+  },
+  {
+    id: 4,
+    name: "Krish",
+    regNo: "RA2011003010166",
+    attendance: "Click here",
+  },
+  {
+    id: 5,
+    name: "Vinay",
+    regNo: "RA2011003010167",
+    attendance: "Click here",
+  },
+  {
+    id: 6,
+    name: "Dipraman",
+    regNo: "RA2011003010168",
+    attendance: "Click here",
+  },
+  {
+    id: 7,
+    name: "Usman",
+    regNo: "RA2011003010169",
+    attendance: "Click here",
+  },
+  {
+    id: 8,
+    name: "Jijnash",
+    regNo: "RA2011003010170",
+    attendance: "Click here",
+  },
+  {
+    id: 9,
+    name: "Nayana",
+    regNo: "RA2011003010171",
+    attendance: "Click here",
+  },
+  {
+    id: 10,
+    name: "Gunnu",
+    regNo: "RA2011003010172",
+    attendance: "Click here",
+  },
+  {
+    id: 11,
+    name: "Gaurang",
+    regNo: "RA2011003010173",
+    attendance: "Click here",
+  },
+  {
+    id: 12,
+    name: "Anirudh",
+    regNo: "RA2011003010174",
+    attendance: "Click here",
+  },
+  {
+    id: 13,
+    name: "Akhil",
+    regNo: "RA2011003010175",
+    attendance: "Click here",
+  },
+  {
+    id: 14,
+    name: "Mrunal",
+    regNo: "RA2011003010176",
+    attendance: "Click here",
+  },
+  {
+    id: 15,
+    name: "Sambhav",
+    regNo: "RA2011003010177",
+    attendance: "Click here",
+  },
+  {
+    id: 16,
+    name: "Sanskar",
+    regNo: "RA2011003010178",
+    attendance: "Click here",
+  },
+  {
+    id: 17,
+    name: "Trayi",
+    regNo: "RA2011003010179",
+    attendance: "Click here",
+  },
+  {
+    id: 18,
+    name: "Vaibhav",
+    regNo: "RA2011003010180",
+    attendance: "Click here",
+  },
+  {
+    id: 19,
+    name: "Samarth",
+    regNo: "RA2011003010181",
+    attendance: "Click here",
+  },
+  {
+    id: 20,
+    name: "Naimish",
+    regNo: "RA2011003010182",
+    attendance: "Click here",
+  },
+];
+export default students;
